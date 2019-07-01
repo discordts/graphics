@@ -1,3 +1,7 @@
-# Discord.ts Graphics
+<div align="center">
+<img src="https://github.com/discordts/graphics/raw/master/full-logo-b.png" width="650" height="auto"/>
+</div>
 
-Graphics and logo for [Dsicord.ts](https://github.com/discordts/discord.ts).
+# discord.ts Graphics
+
+Graphics and logo for [discord.ts](https://github.com/discordts/client).
